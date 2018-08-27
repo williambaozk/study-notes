@@ -2,7 +2,7 @@
 
 ```java
   //for循环
-  public static int theCountOfOne2r(int number) {
+  public static int theCountOfOne2(int number) {
 		String binary=Integer.toBinaryString(number);
 		int count=0;
 		for(int i=0;i<binary.length();i++) {
