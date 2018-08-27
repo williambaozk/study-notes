@@ -1,4 +1,7 @@
 # study-notes
+
+![](images/cherry.jpg)
+
 ## 算法
 * **java实现**
   
