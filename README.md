@@ -1,5 +1,6 @@
 # study-notes
 ![](images/cherry.jpg)
+> **想需你所想 思需你所思**
 ## 算法
 * **java实现**
   
