@@ -9,6 +9,9 @@
    * [木棍问题](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/木棍问题.md)
    * [从尾到头打印链表](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/从尾到头打印链表.md)
    * [二维数组中查找](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二维数组中查找.md)
+   * [反转数组](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/反转数组.md)
+   * [环形链表](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/环形链表.md)
+   * [剪绳子](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/剪绳子.md)
 * **leetCode** 
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
 
