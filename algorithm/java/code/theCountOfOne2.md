@@ -24,3 +24,9 @@
 		return count;
 	}
 ```
+
+```java
+   public int numberOf1(int n){
+   	return Integer.bitCount(n);
+}
+```
