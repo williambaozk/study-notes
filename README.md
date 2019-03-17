@@ -18,8 +18,11 @@
    * [数值的整数次方](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数值的整数次方.md)
    * [矩阵覆盖](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/矩阵覆盖.md)
    * [二叉树的镜像](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉树的镜像.md)
+   * [丑数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/丑数.md)
+   * [把数组排成最小的数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/把数组排成最小的数.md)
 * **leetCode** 
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
+  * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
