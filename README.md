@@ -20,6 +20,9 @@
    * [二叉树的镜像](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉树的镜像.md)
    * [丑数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/丑数.md)
    * [把数组排成最小的数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/把数组排成最小的数.md)
+   * [整数中1出现的次数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/整数中1出现的次数.md)
+   * [第一个只出现一次的字符](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/第一个只出现一次的字符.md)
+   
 * **leetCode** 
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
   * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
