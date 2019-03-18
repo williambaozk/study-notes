@@ -22,10 +22,15 @@
    * [把数组排成最小的数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/把数组排成最小的数.md)
    * [整数中1出现的次数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/整数中1出现的次数.md)
    * [第一个只出现一次的字符](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/第一个只出现一次的字符.md)
+   * [数字在排序数组中出现的次数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数字在排序数组中出现的次数.md)
+   * [二叉搜索树的第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉搜索树的第k个结点.md)
+   * [两个链表的第一个公共结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两个链表的第一个公共结点.md)
    
 * **leetCode** 
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
   * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
+  * [买卖股票的最佳时机-121](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
+  * [买卖股票的最佳时机-122](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-122.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
