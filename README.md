@@ -25,6 +25,7 @@
    * [数字在排序数组中出现的次数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数字在排序数组中出现的次数.md)
    * [二叉搜索树的第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉搜索树的第k个结点.md)
    * [两个链表的第一个公共结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两个链表的第一个公共结点.md)
+   * [平衡二叉树](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/平衡二叉树.md)
    
 * **leetCode** 
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
