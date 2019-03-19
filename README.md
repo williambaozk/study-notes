@@ -26,12 +26,19 @@
    * [二叉搜索树的第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉搜索树的第k个结点.md)
    * [两个链表的第一个公共结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两个链表的第一个公共结点.md)
    * [平衡二叉树](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/平衡二叉树.md)
+   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
+   * [和为S的连续正数序列](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的连续正数序列.md)
+   * [翻转单词顺序列](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/翻转单词顺序列.md)
+   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
+   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
+   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
    
 * **leetCode** 
-  * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
+  * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
   * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
   * [买卖股票的最佳时机-121](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
   * [买卖股票的最佳时机-122](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-122.md)
+  * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
