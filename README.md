@@ -29,9 +29,9 @@
    * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
    * [和为S的连续正数序列](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的连续正数序列.md)
    * [翻转单词顺序列](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/翻转单词顺序列.md)
-   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
-   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
-   * [和为S的两个数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/和为S的两个数字.md)
+   * [左旋转字符串](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/左旋转字符串.md)
+   * [数组中重复的数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数组中重复的数字.md)
+   * [替换空格](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/替换空格.md)
    
 * **leetCode** 
   * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
