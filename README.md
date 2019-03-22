@@ -32,6 +32,13 @@
    * [左旋转字符串](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/左旋转字符串.md)
    * [数组中重复的数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数组中重复的数字.md)
    * [替换空格](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/替换空格.md)
+   * [数据流中的中位数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数据流中的中位数.md)
+   * [字符流中第一个不重复的字符](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/字符流中第一个不重复的字符.md)
+   * [连续子数组的最大和](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/连续子数组的最大和.md)
+   * [删除链表中重复的结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/删除链表中重复的结点.md)
+   * [表示数值的字符串](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/表示数值的字符串.md)
+   * [调整数组顺序使奇数位于偶数前面](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/调整数组顺序使奇数位于偶数前面.md)
+   * [链表中倒数第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/链表中倒数第k个结点.md)
    
 * **leetCode** 
   * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
