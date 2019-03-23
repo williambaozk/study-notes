@@ -39,6 +39,11 @@
    * [表示数值的字符串](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/表示数值的字符串.md)
    * [调整数组顺序使奇数位于偶数前面](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/调整数组顺序使奇数位于偶数前面.md)
    * [链表中倒数第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/链表中倒数第k个结点.md)
+   * [链表中环的入口结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/链表中环的入口结点.md)
+   * [反转链表](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/反转链表.md)
+   * [树的子结构](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数的子结构.md)
+   * [顺时针打印矩阵](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/顺时针打印矩阵.md)
+   * [链表中倒数第k个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/链表中倒数第k个结点.md)
    
 * **leetCode** 
   * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
