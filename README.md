@@ -47,7 +47,7 @@
    * [二叉搜索树与双向链表](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉搜索树与双向链表.md)
    * [数组中出现次数超过一半的数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数组中出现次数超过一半的数字.md)
    * [最小的K个数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/最小的K个数.md)
-   * [复杂链表的复制](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/复杂链表的复制.md)
+   * [对称二叉树-101](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/对称二叉树-101.md)
    * [复杂链表的复制](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/复杂链表的复制.md)
    
 * **leetCode** 
