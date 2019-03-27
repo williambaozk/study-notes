@@ -48,9 +48,16 @@
    * [数组中出现次数超过一半的数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数组中出现次数超过一半的数字.md)
    * [最小的K个数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/最小的K个数.md)
    * [数组中只出现一次的数字](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/数组中只出现一次的数字.md)
+   * [滑动窗口的最大值](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/滑动窗口的最大值.md)
+   * [扑克牌顺子](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/扑克牌顺子.md)
+   * [二叉树的下一个结点](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/二叉树的下一个结点.md)
+   * [不用加减乘除做加法](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/不用加减乘除做加法.md)
+   * [把字符串转换成整数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/把字符串转换成整数.md)
+   * [滑动窗口的最大值](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/滑动窗口的最大值.md)
    
 * **leetCode** 
   * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
+  * [两数相加-2](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数相加-2.md)
   * [对称二叉树-101](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/对称二叉树-101.md)
   * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
   * [买卖股票的最佳时机-121](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
