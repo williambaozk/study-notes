@@ -56,16 +56,16 @@
    * [滑动窗口的最大值](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/滑动窗口的最大值.md)
    
 * **leetCode** 
-  * [两数之和-1](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
-  * [两数相加-2](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数相加-2.md)
-  * [对称二叉树-101](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/对称二叉树-101.md)
-  * [杨辉三角-118](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
-  * [买卖股票的最佳时机-121](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
-  * [买卖股票的最佳时机-122](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-122.md)
-  * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
+  * [1-两数之和](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数之和.md)
+  * [2-两数相加](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/两数相加-2.md)
+  * [101-对称二叉树](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/对称二叉树-101.md)
+  * [118-杨辉三角](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/杨辉三角.md)
+  * [121-买卖股票的最佳时机](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
+  * [122-买卖股票的最佳时机](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-122.md)
+  * [881-救生艇](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
 
 * **校招真题**
-  * [彩色的砖块-网易18](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/彩色的砖块-网易18.md)
+  * [网易18-彩色的砖块](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/彩色的砖块-网易18.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
