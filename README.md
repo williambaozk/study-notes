@@ -2,7 +2,7 @@
 ![](images/cherry.jpg)
 > **想需你所想 思需你所思**
 ## 算法
-* **java实现**
+* **剑指offer**
   
    * [2的乘方](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/thePowerOfTwo.md)
    * [二进制中的1的个数](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/theCountOfOne2.md)
@@ -63,6 +63,9 @@
   * [买卖股票的最佳时机-121](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-121.md)
   * [买卖股票的最佳时机-122](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/买卖股票的最佳时机-122.md)
   * [救生艇-881](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/numRescueBoats.md)
+
+* **校招真题**
+  * [彩色的砖块-网易18](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/彩色的砖块-网易18.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
