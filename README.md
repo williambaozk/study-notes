@@ -66,6 +66,7 @@
 
 * **校招真题**
   * [网易18-彩色的砖块](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/彩色的砖块-网易18.md)
+  * [网易18-等差数列](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/code/网易18-等差数列.md)
 
 ## 数据结构
   * [二叉树](https://github.com/williambaozk/study-notes/blob/master/data-structure/binaryTree.md)
