@@ -1,6 +1,6 @@
 # study-notes
 ![](images/cherry.jpg)
-> **想需你所想 思需你所思**
+> **探索属于你的未知**
 ## [算法](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/编程题库.md)
 
 ## 数据结构
