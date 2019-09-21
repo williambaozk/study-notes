@@ -15,3 +15,47 @@
 
 ### 基本类型的常量池
 整型（包括能自动转成整型的类型）在[-128,127]之间时会使用到常量池
+
+### System.out.print(5+""+10+5)
+输出5105，在字符左边的数字会进行计算，在字符串之后就会进行拼接
+
+### switch可以支持哪些参数
+在1.7之前只支持int以及可以转换成int的类型，在之后支持了String
+
+### Object有哪些方法
+getClass equals hashcode clone wait notify notifyAll finalize toString
+
+### 构造方法可以被哪些修饰
+四种修饰类型都可以，但是static final abstract 不可以，而且不可以有返回值
+
+### lambda表达式的优缺点
+简洁，调用快
+函数是编程，丧失了可读性
+
+### 多态定义 实现机制
+在编译期和运行期的类型不一致
+重写和重载
+
+### 管理文件和目录的类是什么
+File createFile delete isFile exists listFiles isDiractory mkdir getName getPath
+
+### a+=b 和a=a+b的区别
+前者会进行强转，后者不会，有可能会报错
+
+### long能不能进行强转成double
+不能，可以相反
+
+### 基本类型是如何进行自动转型的
+（byte short char）->int ->long->double <-float
+
+### byte数组如何转成String
+new String(byte,"utf-8")
+
+### final修饰的变量运算时会不会进行强转
+不会
+
+### java可以用哪些进行命名变量
+数字 字母 下划线 $ 数字不能开头
+
+### 一个java文件里有多个接口，那么会生成多少个class文件
+有多少个接口就会生成多少个class文件
