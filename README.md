@@ -1,6 +1,5 @@
 # study-notes
-![](images/cherry.jpg)
-> **你的命运由你不由天**
+> **你的未来由你不由天**
 ## [算法](https://github.com/williambaozk/study-notes/blob/master/algorithm/java/编程题库.md)
 
 ## 数据结构
