@@ -59,3 +59,10 @@ new String(byte,"utf-8")
 
 ### 一个java文件里有多个接口，那么会生成多少个class文件
 有多少个接口就会生成多少个class文件
+
+### stream和reader、writer的区别
+stream是字节流
+reader、writer是字符流
+
+### jdbc使用了什么模式
+桥接模式
