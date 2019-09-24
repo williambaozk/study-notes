@@ -1,0 +1,47 @@
+### spring中自动装配的方式有哪些？
+no：不进行自动装配，手动设置依赖关系
+byName：通过属性的名字来进行装配，在配置文件中查找是否有和属性名相同的bean
+byType：通过属性的类型进行装配，在配置文件中查找和属性类型相同的bean
+constructor：通过构造器中的参数列表按照byType的方式来进行装配
+
+### spring中Bean的作用域有哪些？原型模式？什么时候适合单例模式？
+在早期只有singleton和prototype，前者表示单例的方式，后者表示每次从容器中调用bean时，都会返回一个新的实例
+在后来新增的有request（每次http请求都产生一个新的实例）、httpsession（同一个httpsession拥有一个bean）、
+globalSession（同一个全局session共享同一个bean）
+所有的素材都在工具箱中，每次从工具箱中取出来的都是素材对象的一个原型，也就是使用每个类中的clone方法来进行clone，要实现cloneable
+在无状态和状态不可变的类适合使用单例模式
+
+### 请说一下spring中的BeanFactory和ApplicationContext的区别是什么？
+ApplicationContext如果配置的bean是singleton，不管用不用，都会进行实例化，好处是可以预先加载，坏处是浪费内存
+BeanFactory使用实例化时，配置的bean不会马上实例化，而是等到你使用该bean的时候才会进行实例化，好处是节省内存，坏处是速度较慢
+没有特殊要求的话，一般都使用applicationContext，因为beanfactory能干的事applicationContext都能干
+
+### 请说明一下ioc原理是什么？如果你要实现ioc需要怎么做？请简单描述一下实现步骤？
+ioc是spring的核心，就是使用spring来负责控制对象的生命周期和对象间的关系
+一个重要功能就是能动态地给某个对象提供它所需要的其他对象，比如对象A需要操作数据，那么我们就需要一个Connection对象，如果不用spring的话，
+那么我们就需要在A中编写代码来获得一个Connection对象，但是有了spring的话，我们只需要告诉spring我们需要一个connection对象，那么spring就会
+在合适的时候为我们创建一个connection对象，然后注入到A中，这就完成了注入；java1.3之后一个重要的特性是反射，它允许程序在运行的时候进行
+对象的生成、方法的执行、改变对象的属性，spring就是使用反射来完成的
+1.定义描述bean的配置的java类
+2.然后解析bean的配置，将bean的配置信息转换成beandefinition对象保存在内存中，spring中采用hashmap进行存储，在这过程中或用到一些xml解析技术
+3.遍历beanDefinition，逐条取出BeanDefinition对象，获取bean的配置信息，然后利用反射实例化对象，将实例化后的对象保存在另外一个map中
+
+### 依赖注入的方式有哪几种？
+set注入
+构造器注入
+接口注入
+
+### 说一下autowired和resource区别是什么？
+共同点：两个都可写在字段上和setter方法上，两者都写在字段上，那么就需要在写在setter上了
+不同点：
+@Autowired：是spring提供的注解，主要是通过byType的方式进行注入，默认是byType的方式，但是默认是必须存在依赖对象，也可以通过设置required属性为false
+如果想使用byName来进行注入，那么可以结合@Qualifier
+@Resource：默认使用byName注入，由J2EE提供。其中主要有两个属性：name和type，spring会将name解析为bean的名字，而type属性解析为bean的类型，如果两个
+属性都不使用，那么会通过反射机制使用byName自动注入
+
+### beanDefinition是什么？能否设置默认的初始化方法？Bean的生命周期？
+是通过一些工具解析xml文件中的bean信息，然后将这些信息封装成beanDefinition，只有调用getBean的时候才触发Bean实例化
+可以
+调用getBean->调用缺省构造函数->根据xml文件中的配置设置bean的相关属性->检查bean所实现的aware接口，设置相关依赖->BeanPostProcessor前置处理->
+检查initalizingBean接口->检查init-method方法->BeanPostProcessor后置处理->使用->检查disposable接口->desdroy方法
+
